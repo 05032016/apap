@@ -84,7 +84,7 @@ save_as: index.html
         <h3><i class="mdi-content-send indigo-text text-darken-2"></i></h3>
         <!-- <h4>Qualche informazione</h4> -->
         <p class="left-align light">
-The Particle & Astroparticle Physics Programme, now at its second edition, is organised by the Italian Association of Physics Students and is open to all members of the International Assocation of Physics Students. The event will bring 40 students to visit some of the most advanced research facilities in Europe, with a focus on astroparticle physics and one key mission: to foster enthusiasm in the minds of young physicists.
+The Particle & Astroparticle Physics Programme, now at its second edition, is organised by the Italian Association of Physics Students and is open to all members of the International Association of Physics Students. The event will bring 40 students to visit some of the most advanced research facilities in Europe, with a focus on astroparticle physics and one key mission: to foster enthusiasm in the minds of young physicists.
 </p>
       </div>
     </div>
